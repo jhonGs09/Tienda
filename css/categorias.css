@@ -1,14 +1,17 @@
-@import url(/css/producto.css);
-
 *{
     margin: 0 auto;
 }
-
 header{
-    
     background-color: lightblue;
 }
 
+.cont{
+
+    display: flex;
+    width:100%;
+
+     
+}
 a{
     text-decoration: none;
     color: black;
